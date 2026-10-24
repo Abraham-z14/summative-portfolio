@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Shopping List App",
+    "description": "A React app for adding, filtering, and displaying shopping items.",
+    "technologies": ["React", "JavaScript", "CSS"]
+  },
+  {
+    "id": 2,
+    "title": "Product Dashboard",
+    "description": "A responsive dashboard for viewing and managing products.",
+    "technologies": ["React", "Vite", "CSS"]
+  },
+  {
+    "id": 3,
+    "title": "Hogwild",
+    "description": "A React application featuring filtering, sorting, forms, and state management.",
+    "technologies": ["React", "JavaScript"]
+  }
+]
